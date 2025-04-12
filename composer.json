@@ -3,7 +3,7 @@
     "description": "Laravel Model Track History",
     "autoload": {
         "psr-4": {
-            "muhammadyunus1072\\TrackHistory\\": "src/"
+            "Muhammadyunus1072\\TrackHistory\\": "src/"
         }
     },
     "authors": [
