@@ -1,0 +1,16 @@
+{
+    "name": "muhammadyunus1072/track-history",
+    "description": "Laravel Model Track History",
+    "autoload": {
+        "psr-4": {
+            "muhammadyunus1072\\TrackHistory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhammadyunus1072",
+            "email": "muhammadyunus1072@gmail.com"
+        }
+    ],
+    "require": {}
+}
