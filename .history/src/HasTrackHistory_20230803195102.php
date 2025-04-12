@@ -1,6 +1,6 @@
 <?php
 
-namespace Muhammadyunus1072\TrackHistory;
+namespace Sis\TrackHistory;
 
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Auth;
